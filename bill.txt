@@ -1,0 +1,77 @@
+Order number: 1
+Product name: Frozen Peas
+Client name: Silvia Mirela
+Product price: 15
+Quantity: 1
+Total price: 15
+
+Order number: 2
+Product name: Chedar cheese
+Client name: Andrei S
+Product price: 25
+Quantity: 5
+Total price: 125
+
+Order number: 3
+Product name: Strawberries
+Client name: Mihai V
+Product price: 30
+Quantity: 2
+Total price: 60
+
+Order number: 4
+Product name: Frozen Peas
+Client name: Silvia Mirela
+Product price: 15
+Quantity: 1
+Total price: 15
+
+Order number: 5
+Product name: Chips
+Client name: Andrei S
+Product price: 20
+Quantity: 2
+Total price: 40
+
+Order number: 6
+Product name: Chips
+Client name: Andrei S
+Product price: 20
+Quantity: 2
+Total price: 40
+
+Order number: 7
+Product name: Pepsi twist
+Client name: Silvia Mirela
+Product price: 3
+Quantity: 1
+Total price: 3
+
+Order number: 8
+Product name: Pepsi twist
+Client name: Silvia Mirela
+Product price: 3
+Quantity: 1
+Total price: 3
+
+Order number: 9
+Product name: Water bottle
+Client name: Andrei S
+Product price: 2
+Quantity: 1
+Total price: 2
+
+Order number: 10
+Product name: Bread
+Client name: Mihai V
+Product price: 10
+Quantity: 2
+Total price: 20
+
+Order number: 11
+Product name: Milka 
+Client name: Sergiu A
+Product price: 13
+Quantity: 1
+Total price: 13
+
